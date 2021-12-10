@@ -5,11 +5,11 @@ The benefits of Onboard is two-fold: 1) acquisition for dApps for users to under
 
 Onboard integrates with 3box so users can write their XP to their 3box profiles. Third-party dApps can use Rabbit Hole XP as a "Crypto IQ" to determine how qualified a user is based off their smart-contract interactions.
 
-Project Team
+**Project Team**
 Nathan Vandy - @nmaison.eth
 
-Project Advisors
+**Project Advisors**
 n/a
 
-Website
+**Website**
 getonboard.gg
