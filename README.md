@@ -6,6 +6,7 @@ The benefits of Onboard is two-fold: 1) acquisition for dApps for users to under
 **Project Team**
 Nathan Vandy - @nmaison.eth
 
+
 **Project Advisors**
 n/a
 
